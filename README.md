@@ -173,10 +173,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
+![WhatsApp Image 2023-03-21 at 2 10 16 PM](https://user-images.githubusercontent.com/119393935/226556055-dbc72f73-3f62-48be-a8df-5b5ff09dc848.jpeg)
 
-![pm](https://user-images.githubusercontent.com/119393935/226528956-026cd1b6-3b4e-49f7-b16b-b96fbc3d20b9.png)
+
+
+
+
 ## Result :
-
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
 
 
